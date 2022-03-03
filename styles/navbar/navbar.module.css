@@ -1,0 +1,45 @@
+.orSign {
+  height: 40px;
+  width: 1px;
+  left: 437px;
+  top: 51px;
+  border-radius: 0px;
+}
+
+.orSign {
+  color: #d1d1d1;
+  font-size: 30px;
+}
+.description {
+  margin-top: 6px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(174, 174, 174, 1);
+}
+.phone {
+  margin-top: 3px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.workingTime {
+  font-size: 13px;
+  color: rgba(174, 174, 174, 1);
+  font-weight: 400;
+}
+.btnCourse {
+  width: 140px;
+  border-radius: 50px;
+  color: rgba(216, 91, 14, 1);
+  border-color: rgba(216, 91, 14, 1);
+  font-size: 12px;
+}
+.btnAccount {
+  width: 140px;
+  border-radius: 50px;
+  width: 200px;
+  font-size: 12px;
+}
