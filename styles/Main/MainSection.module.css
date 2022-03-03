@@ -1,0 +1,33 @@
+.mainContext {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.textSpanColor {
+  color: rgba(255, 195, 0, 1);
+}
+
+.description {
+  font-size: 16px;
+  width: 60%;
+  color: rgba(174, 174, 174, 1);
+}
+
+.btnCourse {
+  border-radius: 50px;
+  background-color: #d85b0e;
+  color: rgba(255, 255, 255, 1);
+  width: 180px;
+  border: 1px solid #d85b0e;
+  font-size: 14px;
+}
+.playIcon {
+  cursor: pointer;
+}
+.playStart {
+  font-size: 8px;
+  color: rgba(174, 174, 174, 1);
+}
+.playDate {
+  color: rgba(30, 30, 30, 1);
+}

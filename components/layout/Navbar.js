@@ -59,7 +59,7 @@ function Navbar() {
                   Записаться на курсы
                 </div>
                 <div className={`${styles.btnAccount} btn btn-primary ms-2`}>
-                  <BiLogIn className="me-1" />
+                  <BiLogIn className={`${styles.btnAccountIcon} me-1`} />
                   Личный кабинет
                 </div>
               </li>

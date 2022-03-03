@@ -1,0 +1,13 @@
+.card {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(
+    46.88deg,
+    #ffc300 -108.1%,
+    rgba(255, 195, 0, 0) 148.81%
+  );
+  border-radius: 40px;
+}
+.cardTite {
+  font-weight: 700;
+}

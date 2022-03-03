@@ -1,0 +1,15 @@
+.navItem {
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+.navItem:hover {
+  color: rgba(255, 195, 0, 1);
+  cursor: pointer;
+  border-bottom: 1px solid rgba(255, 195, 0, 1);
+}
+.active {
+  color: rgba(255, 195, 0, 1);
+  cursor: pointer;
+  border-bottom: 2px solid rgba(255, 195, 0, 1);
+  border-radius: 1px;
+}
